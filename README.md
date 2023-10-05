@@ -1,6 +1,6 @@
 ![MasterHead](https://i.imgur.com/pKB1bcj.gif)
 <h1 align="center">Hi 👋, I'm Ram Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Evolving software developer, constantly acquiring new skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 
 - 🔭 I’m currently working on **My Skills**
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/W4R10CK99](https://github.com/W4R10CK99)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning, DSA**
 
 - 📫 How to reach me **rumk78864@gmail.com**
 
