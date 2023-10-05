@@ -1,5 +1,7 @@
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/054/914/386/original/squaresprout-deer-lake-slim.gif?1665663701)
 <h1 align="center">Hi 👋, I'm Ram Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 
 - 🔭 I’m currently working on **My Skills**
 
